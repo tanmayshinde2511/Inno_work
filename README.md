@@ -1,2 +1,3 @@
-# Inno_work
+# Innovatus Technologies 
+
 Projects Built During Internship
